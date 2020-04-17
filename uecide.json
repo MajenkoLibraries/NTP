@@ -1,18 +1,1 @@
-{
-    "name": "NTP",
-    "provides": "NTP.h",
-    "license": "LICENSE.md",
-    "readme": "README.md",
-    "description": "Network Time Protocol client library for ESP8266",
-    "category": "Communications",
-    "subcategory": "Networking",
-    "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
-    "version": "1.0.0",
-    "family": "esp8266",
-    "core": "esp8266",
-    "install": {
-        "examples": "/",
-        "NTP.cpp": "/",
-        "NTP.h": "/"
-    }
-}
+{"name":"NTP","provides":"NTP.h","license":"LICENSE.md","readme":"README.md","description":"Network Time Protocol client library for ESP8266","category":"Communication","subcategory":"Networking","maintainer":"Matt Jenkins <matt@majenko.co.uk>","version":"1.0.1","family":"esp8266","core":"esp8266","install":{"examples":"\/","library.properties":"\/","src":"\/"}}
